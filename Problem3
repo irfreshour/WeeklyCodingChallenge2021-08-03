@@ -1,0 +1,41 @@
+## If PROCESSOR = D4F3C5C1E1S1S1E3C6, then
+## QUADRANT = Q1C7A1B2B9A1B7B10
+
+## PROCESSOR:
+D4 = P (4*4=16)
+F3 = R (6*3=18)
+C5 = O (3*5=15)
+C1 = C (3*1=3)
+E1 = E (5*1=5)
+S1 = S (19*1=19)
+S1 = S (19*1=19)
+E3 = O (5*3=15)
+C6 = R (3*6=18)
+
+## QUADRANT*:
+Q = 17
+###### 17 * 1 = Q1
+U = 21
+###### 3 * 7 = C7
+###### 7 * 3 = G3
+A = 1
+###### 1 * 1 = A1
+D = 4
+###### 2 * 2 = B2
+R = 18
+###### 2 * 9 = B9
+###### 3 * 6 = C6
+###### 6 * 3 = F3
+###### 9 * 2 = I2
+A = 1
+###### 1 * 1 = A1
+N = 14
+###### 2 * 7 = B7
+###### 7 * 2 = G2
+T = 20
+###### 2 * 10 = B10
+###### 4 * 5 = D5
+###### 5 * 5 = E4
+###### 10 * 2 = J2
+
+*For numbers that could be gotten multiple different ways, I defaulted to whichever outcome had the greatest common denominator as the multiplier.
